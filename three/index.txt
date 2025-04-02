@@ -7,3 +7,5 @@ safdsfsd
 
 
 testing
+
+purple mode add in purple
